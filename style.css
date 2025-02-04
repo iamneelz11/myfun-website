@@ -1,0 +1,31 @@
+img {
+  height: 500px;
+  width: auto;
+  border: 5px solid white;
+  margin-top:auto;
+}
+
+h1{
+  font-family: "Libre Baskerville";
+  color: #B2A5FF;
+  text-transform: uppercase;
+}
+
+#my1{
+  background-color: #A1E3F9;
+  text-align: center;
+  border: 5px solid #493D9E;
+}
+
+#fon{
+  font-size: 200px;
+  margin: 0px;
+}
+
+p{
+  font-size: 40px;
+  font-weight: 500;
+  margin: 10px;
+  font-family: "Barriecito";
+  color:darkmagenta;
+}
